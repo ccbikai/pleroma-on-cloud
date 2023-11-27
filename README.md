@@ -58,6 +58,8 @@
 
 <https://miantiao.me/@chi>
 
+![chi@miantiao.me](https://static.miantiao.me/share/nNbzS2/miantiao.me_chi.jpg)
+
 ## 致谢
 
 1. <https://github.com/angristan/docker-pleroma>
