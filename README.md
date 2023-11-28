@@ -25,6 +25,7 @@
 ## 支持数据库平台
 
 - [Aiven](https://s.mt.ci/dgQGhM)
+- [Neon](https://neon.tech/)
 
 ## 文件存储
 
