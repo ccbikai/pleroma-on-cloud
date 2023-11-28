@@ -52,6 +52,10 @@
 
 5. 云平台绑定域名，管理员账号登录，进入后台配置实例信息（文件存储，Email通知等等）
 
+   - 管理界面路径是 `/pleroma/admin/#/`
+   - 修改前端为 soapbox 方法：在 Settings - Frontend - Primary 中，修改 Name 为 `soapbox` Reference 为 `static`
+   - 不建议加入 Relay, 中继信息大多无用还占用数据库，你只需要关注感兴趣的用户就行
+
 6. 搜索 `@chi@miantiao.me` 并关注（非必须，建议关注），开始嘟嘟
 
 ## 演示
