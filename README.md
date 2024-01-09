@@ -19,6 +19,7 @@
 ## 支持部署平台
 
 - [Koyeb](https://app.koyeb.com/)
+- [Render](https://render.com/)
 - [Northflank](https://northflank.com/)
 - [Zeabur](https://s.mt.ci/WrK7Dc)
 
@@ -38,7 +39,7 @@
 3. 开始部署此项目，**注意修改环境变量** 为你自己的域名和数据库地址
 
     ```env
-    INSTANCE_NAME=Pleroma # 示例英文名称
+    INSTANCE_NAME=Pleroma # 实例英文名称
     DOMAIN=miantiao.me # 实例域名
     DB_HOST=pleroma.aivencloud.com # 数据库主机地址
     DB_PORT=28404 # 数据库端口
