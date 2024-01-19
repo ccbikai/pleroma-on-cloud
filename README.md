@@ -22,6 +22,7 @@
 - [Render](https://render.com/)
 - [Northflank](https://northflank.com/)
 - [Zeabur](https://s.mt.ci/WrK7Dc)
+- [Fly.io](https://fly.io/)
 
 ## 支持数据库平台
 
